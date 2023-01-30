@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Derik Schrader MART341-WebDesign
 Repository for MART341
