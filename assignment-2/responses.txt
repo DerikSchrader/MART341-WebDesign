@@ -1,5 +1,5 @@
-1. Hopefully this round of trying to use GitHub will go much smooher.
+1. A directory is a hierarcal file system that contains related folders and files within those underlying folders.
 
-2. Keep telling myself to be open minded.
+2. A version control system, or VCS, is useful because it allows a developer to test changes, or revert to previous versions in the event of a broken webpage.
 
-3. A well crafted cocktail will fix most problems, except GitHub problems.
+3. I've found my favorite medium is one that I seem to alwasy return to, photography. After recieving additional knowledge through the UM I found that cameras have more potential than what I've previously used them for. There are sides to photography beyond landscapes and portraits that are more abstract, and that is exciting.
