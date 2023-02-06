@@ -1,0 +1,6 @@
+- The relationship between DNS and IP addresses is that the DNS translates domain names to IP addresses so that browsers can load internet resources.
+
+- A cookie, or HTTP, cookies are small pieces of data created by a web server and are stored on the end users device.
+
+- THe three main parts of a URL are: protocol, domain, and directory.
+
