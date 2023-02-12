@@ -1,0 +1,5 @@
+1. Browsers function throught the user interface which allows the enduser to do what they intend through interactions with the platform. Each browser has a rendering engine that constructs the page with html and css content and displays both. The browser engine works with the rendering engine and external servers. THe browser engine works with its connection to the network to recieve the necessary content. Functionality of the browser comes from javascript which is performed by the javea script interpreter. In addition to the previous, data storage also occurs with the browser to store information.
+
+2. I currenlty use Safari to surf the internet from personal devices. From my work computer I use Chrome and Edge.
+
+3. Screenshot link: ![screenshot](./images/Screenshot%202023-02-12%20at%201.42.27%20PM.png)
