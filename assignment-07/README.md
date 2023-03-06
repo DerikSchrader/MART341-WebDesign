@@ -1,0 +1,3 @@
+1. While browsing the web I have seen many forms of HTML forms. Websites that you make purchases on have have text entry for usernames and passwords for logging in or creating an account. These areas allow the user to enter their information for logging in throuhg a submit button. I have also seen plenty of check boxes used for survey purposes or to help dial in what the user may need. In addition to those, I have seen teh select box used for choosing options when ordering something, or to select a state when entering an address.
+
+![screenshot](./images/Screenshot%202023-03-05%20at%208.45.34%20PM.png)
