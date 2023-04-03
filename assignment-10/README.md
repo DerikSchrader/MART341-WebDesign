@@ -1,0 +1,5 @@
+1. There are four selector types used in CSS: universal, element, class, and id. The element selector is used to style every element on a page. This selector is useful for font and background colors.The element selector is used to select elements of a certain type; for example, this could be used on the header elemenent or other text. The class selector will style elements that are assigned a "class=" attribute, i.e. a <div>, and is useful for styling specific blocks of a website. The id selector also requires a section to be assigned; however, with a "id=" attribute. This is good for changing very precise elements on a webpage and should only be used once before creating a different "id" attribute. 
+
+2. The color pallete I chose for this website is meant to give a retro feel. When I designed the website logo I combined the look look of a camera bellows and that of argyle print to create a retro feel with a twist. The use of blacks, reds, mint/seafoam green and white aids in that style. Less is more and subtle helps to define what the scope of the website is about.
+
+![screenshot](./images/Screenshot%202023-04-02%20at%207.25.04%20PM.png)
