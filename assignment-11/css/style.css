@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+h1 {    color: whitesmoke;
+  font-family: 'Raleway';
+  font-size: 60px;
+  letter-spacing: 0.1em;}
+
+h2 {    color: whitesmoke;
+    font-family: 'Raleway';
+    font-size: 40px;
+    letter-spacing: 0.1em;}
+
+h3 {    color: whitesmoke;
+    font-family: 'Raleway';
+    font-size: 30px;
+    }
+
+p {    color: whitesmoke;
+    font-family: 'Raleway';
+    font-size: 20px;
+    line-height: 1.6;
+  }
+
+.p2 {  color: whitesmoke;
+    font-family: 'DancingScript';
+    font-size: 50px;
+    padding: 2px;
+}
+h3, nav, li, form {color:whitesmoke}
+
+
+nav {font-size: larger;}
+
+li {display:inline}
+/* changed link color */
+a:link {color: whitesmoke}
+/* changed visited color for nav links */
+a:visited {
+    color: whitesmoke;
+    text-decoration: none}
+/* changed hover color for active link */
+a:hover {color: #3D4D42;}
+
+.pagetitle {
+    background-color: #3D4D42;
+    padding: 10px;
+    width: 55%;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 0.8;
+    }
+
+.surreal01 {border: 7px solid #3D4D42;
+    display: center;
+    padding: 10px;
+    width: 70%;
+    margin:auto;
+    border-radius: 5px}
+
+.surreal02 {border: 7px solid #3D4D42;
+    display: inline-block;
+    padding: 10px;
+    width: 70%;
+    margin:auto;
+    border-radius: 5px}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 5px;
+  }
+
+  #title {
+    font-size: 45px;
+  }
+
+.gallery {background-color: #3D4D42;
+    padding: 10px;
+    width: 55%;
+    display: inline-block;
+    border-radius: 5px;}
+
+.forms {background-color: #3D4D42;
+  text-align: left;
+  font-size: medium;
+  padding: 10px;
+  width: 45%;
+  display: inline-block;
+  border-radius: 5px;}
+
+  label, select {font-size:80%}
+
+  input {font-size: 50%;}
+
+.about {
+    background-color: #3D4D42;
+    padding: 10px;
+    width: 55%;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 0.9;
+    text-align: justify;}
+
+.bottomtext {
+    background-color: #3D4D42;
+    padding: 10px;
+    width: 55%;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 0.9;
+    font-family: 'DancingScript';
+    text-align: center;}
+
+
+
+  
