@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-Light.ttf);
+    font-weight: 100;
+    }
+
+@font-face {
+    font-family: 'DancingScript';
+    src: url(../fonts/DancingScript-Regular.ttf);
+    font-style: normal;
+    font-weight: 400;
+}
